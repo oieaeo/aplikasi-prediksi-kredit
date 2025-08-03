@@ -1,8 +1,9 @@
-Flask
-Flask-Cors
 pandas
 scikit-learn
 joblib
 openpyxl
 matplotlib
+Flask
+Flask-Cors
 gunicorn
+firebase-admin
